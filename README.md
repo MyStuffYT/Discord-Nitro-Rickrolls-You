@@ -7,3 +7,11 @@ Currently in progress
 
 https://mystuffyt.github.io/NitroPrank/404
 do not enter
+
+
+# How to use?
+
+Go get the files and use it then the alert popup rickrolls you!
+
+# Enjoy!!!
+Rickrolls are angry rn
